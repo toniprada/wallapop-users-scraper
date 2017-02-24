@@ -2,7 +2,7 @@
 import os
 
 LOG_LEVEL ='INFO'
-BOT_NAME = 'wallapop-scraper'
+BOT_NAME = 'wallapop-users-scraper'
 SPIDER_MODULES = ['scraper.spiders']
 NEWSPIDER_MODULE = 'scraper.spiders'
 DOWNLOAD_HANDLERS = { 's3': None }
